@@ -12,3 +12,5 @@ https://exploringjs.com/es6/
 https://developer.mozilla.org/ru/
 
 https://www.youtube.com/watch?v=Sy_wba7l1UU&list=PLawfWYMUziZqyUL5QDLVbe3j5BKWj42E5
+
+https://www.youtube.com/channel/UCDUJu_bQH68A4FXij5P_8MQ
